@@ -1,0 +1,4 @@
+AMD 521 4242
+Ryzen 7976 0876
+IntelCore 789 86609
+IntelCore 876 938
